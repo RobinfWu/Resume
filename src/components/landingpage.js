@@ -18,11 +18,11 @@ class LandingPage extends Component{
                             <p>Python | Java | R | SQL | JavaScript</p>
                         </div>
                         <div className="social-links">
-                            <a hrefs="https://www.linkedin.com/in/robin-wu/" rel="noopener noreferrer" targets="_blanks">
+                            <a href="https://www.linkedin.com/in/robin-wu/" rel="noopener noreferrer" targets="_blanks">
                                 <i className="fa fa-linkedin-square" aria-hidden="true"/>
                             </a>
 
-                            <a hrefs="https://github.com/RobinfWu" rel="noopener noreferrer" targets="_blanks">
+                            <a href="https://github.com/RobinfWu" rel="noopener noreferrer" targets="_blanks">
                                 <i className="fa fa-github-square" aria-hidden="true"/>
                             </a>
                         </div>
