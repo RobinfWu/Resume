@@ -7,7 +7,7 @@ class LandingPage extends Component{
             <div style={{width: '100%', margin: 'auto'}}>
                 <Grid className="landing-grid">
                     <Cell col={12}>
-                        <img src="https://media-exp1.licdn.com/dms/image/C4E03AQGeXIBZdfAgqQ/profile-displayphoto-shrink_200_200/0?e=1596067200&v=beta&t=DwSRfp2Z2rPNzsf_J60Wprnjopim-4OsEB3i3X1Hji0"
+                        <img src="https://cs3.livemaster.ru/zhurnalfoto/d/7/0/160117220128d7019e4d379c24d8635211467381fad7.jpeg"
                         alt="avatar"
                         className="avatar-img"
                         />
